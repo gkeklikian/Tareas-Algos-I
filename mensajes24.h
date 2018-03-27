@@ -1,0 +1,11 @@
+#define msj_pedir_numero "Por favor, ingrese el dia del año correspondiente."
+#define msj_error "Error"
+#define msj_error_ingreso "El valor ingresado no es un numero."
+#define msj_domingo "domingo"
+#define msj_lunes "lunes"
+#define msj_martes "martes"
+#define msj_miercoles "miercoles"
+#define msj_jueves "jueves"
+#define msj_viernes "viernes"
+#define msj_sabado "sabado"
+
